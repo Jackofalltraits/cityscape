@@ -44,18 +44,18 @@ function BecomeDocent() {
         </Navbar>
         
     <h1>Become a Docent</h1>
-    <h4>Thank you for your interest in becoming a Docent. We are expanding and we may even have a spot for you. Right now, In America, we are only hiring in:</h4>
+    <h2>Thank you for your interest in becoming a Docent. We are expanding and we may even have a spot for you. Right now, In America, we are only hiring in:</h2>
     
-    <li>Atlanta</li>
-    <li>Chicago</li>
-    <li>New York CIty</li>
-    <li>San Diego</li>
-    <li>San Francisco</li>
-    <li>Seattle</li>
-    <li>Washiongton D.C.</li>
-<h4>Outside of North America, we are only hiring in: </h4>
-    <li>London</li>
-    <li>Tokyo</li>
+    <h4>Atlanta</h4>
+    <h4>Chicago</h4>
+    <h4>New York City</h4>
+    <h4>San Diego</h4>
+    <h4>San Francisco</h4>
+    <h4>Seattle</h4>
+    <h4>Washiongton D.C.</h4>
+<h2>Outside of North America, we are only hiring in: </h2>
+    <h4>London</h4>
+    <h4>Tokyo</h4>
    <h3>Please Email our recruiting Manager Jack at jackkower@gmail.com with your resume and 3 sentences about why you would be a good docent. We will be in touch.</h3>
     <div className="pic">
     <img src={Jack} alt="jack" className="jack" />
