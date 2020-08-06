@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cityscape/static/css/main.5f19bee2.chunk.css",
+    "main.js": "/cityscape/static/js/main.e5a3f4f5.chunk.js",
+    "main.js.map": "/cityscape/static/js/main.e5a3f4f5.chunk.js.map",
+    "runtime-main.js": "/cityscape/static/js/runtime-main.f07a90c0.js",
+    "runtime-main.js.map": "/cityscape/static/js/runtime-main.f07a90c0.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/cityscape/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a19f8633.chunk.js": "/cityscape/static/js/2.a19f8633.chunk.js",
+    "static/js/2.a19f8633.chunk.js.map": "/cityscape/static/js/2.a19f8633.chunk.js.map",
+    "index.html": "/cityscape/index.html",
+    "precache-manifest.76c20da09443f090cdd98b1ed8bd9429.js": "/cityscape/precache-manifest.76c20da09443f090cdd98b1ed8bd9429.js",
+    "service-worker.js": "/cityscape/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/cityscape/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f19bee2.chunk.css.map": "/cityscape/static/css/main.5f19bee2.chunk.css.map",
+    "static/js/2.a19f8633.chunk.js.LICENSE.txt": "/cityscape/static/js/2.a19f8633.chunk.js.LICENSE.txt",
+    "static/media/SD.jpg": "/cityscape/static/media/SD.b57bcb6c.jpg",
+    "static/media/chig.jpg": "/cityscape/static/media/chig.7d76f88d.jpg",
+    "static/media/hipster.jpg": "/cityscape/static/media/hipster.47d2bbf1.jpg",
+    "static/media/jackrec.jpg": "/cityscape/static/media/jackrec.ef78ff75.jpg",
+    "static/media/nyc.jpg": "/cityscape/static/media/nyc.de962884.jpg",
+    "static/media/testi.JPG": "/cityscape/static/media/testi.f5028618.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07a90c0.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a19f8633.chunk.js",
+    "static/css/main.5f19bee2.chunk.css",
+    "static/js/main.e5a3f4f5.chunk.js"
+  ]
+}
