@@ -62,7 +62,8 @@ return(
                 href = "/al"
                 style={{ backgroundColor: "black" }}
               >
-atlantic city              </Button>
+atlanta
+             </Button>
             </Grid>
             <Grid item xs={12}>
               <Button
@@ -114,7 +115,7 @@ atlantic city              </Button>
                 href = "/se"
                 style={{ backgroundColor: "black" }}
               >
-                Seatle 
+                Seattle 
               </Button>
             </Grid>
         

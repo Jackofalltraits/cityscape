@@ -47,7 +47,7 @@ function Home() {
           <h1>CityScape</h1>
           <h2>Escape to The City</h2>
           <h3>
-            Travel With a Docent! We Provide Docents who can help you
+            Travel with a Docent! We provide Docents who can help you
             around the city.
           </h3>
           <h3>

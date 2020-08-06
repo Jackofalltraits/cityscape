@@ -64,7 +64,7 @@ return(
                 style={{ backgroundColor: "#B92626" }}
                 href="/foodie"
               >
-                Fooide 
+                Foodie 
               </Button>
             </Grid>
             <Grid item xs={12}>

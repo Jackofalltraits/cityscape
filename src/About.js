@@ -45,7 +45,7 @@ function About() {
           </Nav>
         </Navbar>     
     <h1>About CityScape</h1>
-    <h5>CityScape breaks down all the important data and prepares people to travel. With the help of our most important feature the Docent, users can find locals in their vacation spot to talk to about travel. We break down our Docents into categories such as Food Lover, Hipster, Professional, Relaxer, and Thrill Seeker. If you want to be a docent, please go to "become a docent" to find out more information</h5>
+    <h5>CityScape breaks down all the important data and prepares people to travel. With the help of our most important feature the Docent, users can find locals in their vacation spot to talk to about travel. We break down our Docents into categories such as Foodie, Hipster, Professional, Relaxer, and Thrill Seeker. If you want to be a docent, please go to "be a docent" to find out more information</h5>
     <div className="pic">
     <img src={Hipster} alt="hip" className="hipster" />
     <img src={Thrill} alt="thril" className="thriller" />
