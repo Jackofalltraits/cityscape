@@ -5,7 +5,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Link } from "react-router-dom";
 import Testi from "./assets/testi.JPG";
 import Sd from "./assets/SD.jpg";
-import Nyc from "./assets/nyc.jpg";
 import Chig from "./assets/chig.jpg";
 import {
   Button,
@@ -58,7 +57,6 @@ function Home() {
             Do you know your city well? Why not get paid?<b> Become a Docent!</b>
           </h3>
           <img src={Chig} alt="chig" className="chig" />
-          <img src={Nyc} alt="nyc" className="nyc" />
           <img src={Sd} alt="sd" className="sd" />
         <div>
           <img src={Testi} alt="testi-image" className="testi" />
