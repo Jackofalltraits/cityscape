@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   background-color: #37859E;
-
 }
 
 .App-logo {
@@ -64,7 +63,7 @@ h1{
   font-size: 27px;
   white-space: 100px;
   text-align: center;
-  padding: 20%;
+  /* padding: 20%; */
 }
 
 .chig{
@@ -78,4 +77,8 @@ width: 30%;
 .sd{
   margin-top: 5%;
   width: 30%;
+}
+
+.home {
+  height: 100vh;
 }
