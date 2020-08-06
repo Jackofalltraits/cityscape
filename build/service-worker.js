@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/csc642-summer2020-team5-team-project/precache-manifest.fcad09170dcb6afb3d3d68dc1d87f354.js"
+  "/csc642-summer2020-team5-team-project/precache-manifest.63a8888972954789277ab0304b4c185d.js"
 );
 
 self.addEventListener('message', (event) => {
